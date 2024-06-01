@@ -24,7 +24,7 @@ function Footer() {
               <a
                 href="https://github.com/viethung23"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
@@ -34,7 +34,7 @@ function Footer() {
               <a
                 href="https://www.linkedin.com/in/nguyen-hung-3a9b0226a/"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
@@ -44,7 +44,7 @@ function Footer() {
               <a
                 href="https://www.facebook.com/hungnv2301"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillFacebook />

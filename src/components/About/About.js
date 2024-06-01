@@ -1,15 +1,9 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-import Github from "./Github";
 import Techstack from "./Techstack";
-import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
-import Toolstack from "./Toolstack";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
   AiFillFacebook
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
