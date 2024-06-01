@@ -15,7 +15,7 @@ function Home2() {
             <p className="home-about-body">
             I'm a recent graduate from
             <b className="purple"> FPT University </b>{" "} 
-            with a degree in Software Engineering 🤷‍♂️
+            with a degree in Software Engineering 🔥
               <br />
               <br />I've developed a strong foundation in software development, coding principles, and problem-solving skills, with a particular focus on
               <b className="purple"> .NET technologies </b>
