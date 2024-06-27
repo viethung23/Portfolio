@@ -49,6 +49,7 @@ function Projects() {
               title="TSD Project"
               description="A system that allows customers and drivers to book and receive orders for goods transportation built with .NET Core API, React.js, and MS SQL, with features including map viewing, distance-based pricing, and refunds for unaccepted orders."
               ghLink="https://github.com/viethung23/TsdDelivery"
+              demoLink="https://tsdproject.vercel.app/"
             />
           </Col>
 
